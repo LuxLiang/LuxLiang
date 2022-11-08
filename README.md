@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuxLiang
-- 👀 I’m interested in stats, econometrics, algorithmic trading， accounting.
+- 👀 I’m interested in stats, econometrics, algorithmic trading, accounting.
 - 🌱 I’m currently learning quantitative analysis, Empirical Finance.
 - 📫 Feel free to reach me: lianglux[at]ruc[dot]edu[dot]cn 
 
